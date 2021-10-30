@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   background-image: url("images/wp3097769.jpg");
   min-height: 766px;
   background-position: 50% 50%;
@@ -59,13 +59,13 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 {
-    min-height: 661px;
+   .u-section-1 {
+    min-height: 931px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
     width: 940px;
-    margin-top: 371px;
+    margin-top: 266px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -82,13 +82,13 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 {
-    min-height: 546px;
+   .u-section-1 {
+    min-height: 1037px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
     width: 720px;
-    margin-top: 613px;
+    margin-top: 173px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -105,12 +105,13 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 {
-    min-height: 835px;
+   .u-section-1 {
+    min-height: 1388px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
     width: 540px;
+    margin-top: 161px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -129,17 +130,17 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 {
-    min-height: 625px;
+   .u-section-1 {
+    min-height: 1082px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
     width: 340px;
-    margin-top: 1066px;
+    margin-top: 164px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 100px;
+    min-height: 654px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -152,6 +153,6 @@
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 327px;
+    min-height: 53px;
   }
 }
